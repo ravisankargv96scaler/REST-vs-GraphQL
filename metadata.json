@@ -1,0 +1,5 @@
+{
+  "name": "19-REST vs GraphQL",
+  "description": "An interactive educational dashboard designed to explain the core differences, pros, and cons of REST and GraphQL architectures through simulations and visualizations.",
+  "requestFramePermissions": []
+}
